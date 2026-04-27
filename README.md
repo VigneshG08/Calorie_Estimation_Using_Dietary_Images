@@ -278,3 +278,11 @@ Training uses early stopping on validation loss to prevent overfitting and resto
 ## 📄 License
 
 This project is intended for academic and educational purposes.
+## Dataset
+**Source:** [Fruits and Vegetables Image Recognition - Kaggle](https://www.kaggle.com/datasets/kritikseth/fruit-and-vegetable-image-recognition)
+
+Contains 36 categories of fruits and vegetables with train/test/validation split.
+
+To use:
+1. Download from the Kaggle link above
+2. Place it in the project root as `Dataset/`
